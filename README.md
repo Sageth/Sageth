@@ -11,7 +11,8 @@ I am a passionate technologist, fanatical about full automation and self-healing
 - I'm an Eagle Scout, with my Eagle project focusing on the history and cleanup of a small, local Civil War cemetery that was long neglected.
 
 ## Tech Experience
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,css,cloudflare,github,html,linux,mysql,nginx,php,perl,powershell,python,react,regex,vim,wordpress)
+![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,css,cloudflare,github,html,linux)
+![More Skills](https://skillicons.dev/icons?i=mysql,nginx,php,perl,powershell,python,react,regex,vim,wordpress)
 
 
 
